@@ -1,7 +1,7 @@
 ### Hi world
 
 My name is <bold> Juan David Sierra </bold> and in this repository I am going to focus on application in qt with c++, and java and occasionally in android with kotlin
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OkabeRitarou&show_icons=true&locale=en" alt="OkabeRitarou" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OkabeRitarou&show_icons=true&locale=en&layout=compact" alt="OkabeRitarou" />
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OkabeRitarou&show_icons=true&locale=en" alt="OkabeRitarou" /> <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=OkabeRitarou&show_icons=true&locale=en&layout=compact" alt="OkabeRitarou" />
  </p>
 
 <h3 align="left">Languages and Tools:</h3>
