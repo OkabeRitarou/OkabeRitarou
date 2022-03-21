@@ -5,7 +5,7 @@ My name is <bold> Juan David Sierra </bold> and in this repository I am going to
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OkabeRitarou" alt="OkabeRitarou" /></a> </p>
 
-![Vamshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=OkabeRitarou&theme=react-dark&hide_border=true&custom_title=Vamshi%27s%20contribution%20graph)
+![Vamshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=OkabeRitarou&theme=react-dark)
 </br>
 
 ## Consistency is the key ✨
