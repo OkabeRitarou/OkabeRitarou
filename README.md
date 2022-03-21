@@ -1,6 +1,6 @@
 My name is <bold> Juan David Sierra </bold> and in this repository I am going to focus on application in qt with c++, and java and occasionally in android with kotlin
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OkabeRitarou&show_icons=true&locale=en" alt="OkabeRitarou" /> <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=OkabeRitarou&show_icons=true&locale=en&layout=compact&langs_count=8" alt="OkabeRitarou" />
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=OkabeRitarou&show_icons=true&locale=en" alt="OkabeRitarou" /> <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=OkabeRitarou&show_icons=true&locale=en&layout=compact&langs_count=6" alt="OkabeRitarou" />
  </p>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OkabeRitarou" alt="OkabeRitarou" /></a> </p>
