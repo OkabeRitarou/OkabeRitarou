@@ -42,3 +42,7 @@ My name is <bold> Juan David Sierra </bold> and in this repository I am going to
  <a href="https://www.android.com/" target="_blank"> 
   <img width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"> </a> 
 </p>
+
+<p> Actual (and last in github) desktop enviroment
+ <img alt="endeavour qtile" src="https://raw.githubusercontent.com/OkabeRitarou/dotfiles/main/qtile/endeavour-qtile.png" />
+<p>
