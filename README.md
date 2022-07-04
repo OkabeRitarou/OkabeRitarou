@@ -31,16 +31,10 @@ My name is <bold> Juan David Sierra </bold> and in this repository I am going to
  <a href="https://www.postgresql.org" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  
- <a href="https://www.qt.io/" target="_blank"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
- <a href="https://www.rust-lang.org/" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
  <a href="https://go.dev/" target="_blank"> 
    <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"> </a> 
  <a href="https://www.python.org/" target="_blank"> 
    <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"> </a> 
- <a href="https://www.android.com/" target="_blank"> 
-  <img width="40" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"> </a> 
 </p>
 
 <p> Actual (and last in github) desktop enviroment
