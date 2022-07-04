@@ -1,4 +1,5 @@
-My name is <bold> Juan David Sierra </bold> and in this repository I am going to focus on application in qt with C++, and Golang and occasionally in Android with Kotlin
+My name is <bold> Juan David Sierra </bold> and in this repository I am going to focus on application in qt with C++, and Golang and occasionally in Android with Kotlin 
+<p> MOVE PROFLE TO https://gitlab.com/eliotandelon </p>
 
 <p> 
  <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs?username=OkabeRitarou&show_icons=true&locale=en&langs_count=8&layout=compact" alt="OkabeRitarou" />
