@@ -1,4 +1,3 @@
-My name is <bold> Juan David Sierra </bold> and in this repository I am going to focus on application in qt with C++, and Golang and occasionally in Android with Kotlin 
 <p> MOVE PROFLE TO https://gitlab.com/eliotandelon </p>
 
 <p> 
